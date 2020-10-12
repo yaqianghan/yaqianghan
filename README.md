@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **yaqianghan/yaqianghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,6 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with php/python
 - 💬 Ask me about ...
 - 📫 How to reach me: yaqianghan_827@163.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: Alince
+- ⚡ Fun fact: run
